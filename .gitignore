@@ -1,0 +1,24 @@
+# Build output
+*.exe
+*.pdb
+*.dll
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs and local diagnostics
+*.log
+gcm-diagnose.log
+
+# Local projects and exported themes
+*.vmaxproj
+*.vmax
+
+# OS files
+Thumbs.db
+desktop.ini
